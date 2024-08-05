@@ -2,6 +2,8 @@
 
 BissantiSort is an innovative sorting algorithm that combines the benefits of PowerSort and TimSort to optimize the sorting of partially ordered arrays. This algorithm was developed by Roberto Bissanti.
 
+You can find more information on the related wiki page: <https://github.com/robertobissanti/BissantiSort/wiki>
+
 ## Description
 
 BissantiSort detects runs (ordered sequences) within the array and uses a combination of PowerSort and TimSort to efficiently sort and merge these runs. The algorithm leverages the efficiency of PowerSort in detecting and sorting runs, combined with the optimization of TimSort for partially ordered data.
