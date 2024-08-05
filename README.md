@@ -27,6 +27,7 @@ BissantiSort/
 │   └── test_bissanti_sort.c
 ├── README.md
 └── LICENSE
+```
 
 ## Usage
 
