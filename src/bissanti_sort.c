@@ -11,6 +11,8 @@
  * @author 
  * Roberto Bissanti
  * roberto.bissanti@gmail.com
+ * Alessandro Bissanti
+ * alessandro.bissanti@gmail.com
  * 
  * @license
  * GNU General Public License v3.0
